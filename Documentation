@@ -1,0 +1,17 @@
+Django_LMS has two modules. 
+User Module
+Admin module
+
+User Module:
+User can see all the books in book library. 
+User don't need any kind of login and signin.
+
+Admin Module:
+Admin has signup and signin facility.
+After login/signin admin can add new book, edit existing book, delete existing book
+Admin can login using emailID and Password.
+Without login No one can add, edit , update and delete books.
+
+We have used MySQL for storing Admin details and as well as book details.
+
+
